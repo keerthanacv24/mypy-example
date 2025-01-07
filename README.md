@@ -1,4 +1,8 @@
 # mypy-example
+
+hey, I'm Keerthana student of DR. AIT
+pursuing my course in CSBS also a pyhton enthusiast
+
 Python Data Structures and Algorithms (DSA)
 This repository contains a collection of implementations and explanations of fundamental data structures and algorithms in Python. It serves as a comprehensive resource for students, developers, and anyone interested in deepening their understanding of DSA concepts.
 
